@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShipraShakya
-- 👀 I’m a software developer
+- 👀 I’m a software developer, worked on react, mongo, express, node, flutter, firebase, php.
 
 <!---
 ShipraShakya/ShipraShakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
