@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shipra Shankhwar</h1>
-<h3 align="center">Frontend Developer | Aspiring Full-Stack Engineer | React • Flutter • Next.js</h3>
+<h3 align="center">Frontend Developer | Aspiring Full-Stack Engineer | React • Flutter • Next.js • Python • Java</h3>
 
 ---
 
